@@ -1,0 +1,23 @@
+{
+  "name": "rails-test",
+  "private": true,
+  "dependencies": {
+    "@angular/common": "^5.2.4",
+    "@angular/compiler": "^5.2.4",
+    "@angular/core": "^5.2.4",
+    "@angular/platform-browser": "^5.2.4",
+    "@angular/platform-browser-dynamic": "^5.2.4",
+    "@rails/webpacker": "^3.2.1",
+    "core-js": "^2.5.3",
+    "resolve-url-loader": "^2.2.1",
+    "rxjs": "^5.5.6",
+    "to-string-loader": "^1.1.5",
+    "ts-loader": "^3.5.0",
+    "typescript": "^2.7.1",
+    "webpack-merge": "^4.1.1",
+    "zone.js": "^0.8.20"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.11.1"
+  }
+}
