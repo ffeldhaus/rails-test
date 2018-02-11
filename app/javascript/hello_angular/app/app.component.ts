@@ -1,10 +1,9 @@
 import { Component } from '@angular/core';
-import styleString from './app.component.scss';
 
 @Component({
   selector: 'hello-angular',
   template: `<h1>Hello {{name}}</h1>`,
-  styles: [ styleString ]
+  styleUrls: [ './app.component.scss' ]
 })
 
 export class AppComponent {
